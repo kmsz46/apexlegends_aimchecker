@@ -1,0 +1,7 @@
+opencv-python
+pyocr
+numpy
+pytesseract
+tqdm
+Pillow
+moviepy
