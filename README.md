@@ -17,5 +17,5 @@ pip install -r requirements.txt
 # 形式について
 python main.py 元動画のファイルパス 書き出すファイルパス
 # 例
-python main.py rensyu.mp4 edit_rensyu.mp4
+python cut.py movie_data/rensyu.mp4 movie_data/cut_rensyu.mp4
 ```
