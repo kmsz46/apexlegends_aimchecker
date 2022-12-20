@@ -1,7 +1,10 @@
 # Apex Legendsのプレイ動画から戦闘シーンのみを自動抽出するコード
 ## 説明
-このブログ記事にまとめているので確認してもらえると嬉しいです！
-URL：https://zenn.dev/ganbarimasu/articles/de6d046cd97572
+このブログ記事にまとめているので興味のある方は是非こちらを確認してみてください。<br/>
+動画の切り抜きに関する記事<br/>
+URL：https://zenn.dev/ganbarimasu/articles/de6d046cd97572　<br/>
+人物検知に関する記事<br/>
+URL：https://zenn.dev/ganbarimasu/articles/227a8f29fff8bb　<br/>
 ## 概要
 Apex Legendsのプレイ動画から画像解析技術を用いて、自動で戦闘シーンのみを切り抜くプログラム
 ## 環境構築
